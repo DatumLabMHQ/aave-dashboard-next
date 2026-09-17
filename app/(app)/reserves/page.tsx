@@ -3,7 +3,7 @@ import { ReservesTable } from '@/components/aave-tables';
 import { BarChart, DonutChart } from '@/components/charts';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { loadAave } from '@/lib/data';
-import { count, pct, usd } from '@/lib/format';
+import { count, usd } from '@/lib/format';
 
 export const revalidate = 300;
 export const metadata = { title: 'Reserves' };
