@@ -7,7 +7,7 @@ export const config = {
   slug: 'aave-dashboard-next',
   // The name this dashboard's brief, product note and reconciliation rows use in datum-context.
   context: 'aave-dashboard',
-  title: 'State of Aave',
+  title: 'Aave Dashboard',
   description: 'Every Aave v3 reserve on twenty chains and every v4 spoke, per market and per reserve, with Aave\'s own totals beside ours, read hourly from the Datum data platform.',
   // The question the overview answers. Pages lead with it.
   question: 'Where does Aave stand today across its markets and chains, and is v4 taking share from v3?',

@@ -1,4 +1,4 @@
-# State of Aave
+# Aave Dashboard
 
 Every Aave v3 reserve on twenty chains and every v4 spoke, per market and per reserve, with Aave's own totals beside ours, built on the Datum data platform.
 
